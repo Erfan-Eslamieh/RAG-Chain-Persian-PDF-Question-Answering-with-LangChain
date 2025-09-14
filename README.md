@@ -1,4 +1,4 @@
-# 📌 RAG & Chain: Persian PDF Question Answering with LangChain
+# 📌 RAG & Chain: Persian PDFs Question Answering with LangChain
 
 ## 📖 Overview
 This repository demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline combined with **Chain mechanisms** using the LangChain framework.  
